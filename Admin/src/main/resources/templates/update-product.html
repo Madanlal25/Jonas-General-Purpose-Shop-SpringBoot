@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" data-scompiler-id="0" xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en" dir="ltr" data-scompiler-id="0" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.w3.org/1999/xhtml">
 <head th:replace="fregments :: header"></head>
 <body>
 
@@ -48,7 +49,7 @@
                                                     <h2 class="mb-0 fs-exact-18">Pricing</h2></div>
                                                 <div class="row g-4">
                                                     <div class="col">
-                                                        <label for="costPrice" class="form-label">Price</label>
+                                                        <label for="costPrice" class="form-label">Actual Price</label>
                                                         <input type="number" th:field="*{costPrice}" name="costPrice" class="form-control" id="costPrice"/>
                                                     </div>
                                                     <div class="col">

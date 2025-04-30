@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" data-scompiler-id="0" xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en" dir="ltr" data-scompiler-id="0" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.w3.org/1999/xhtml">
 
 <head th:replace="fregments :: header"></head>
 
@@ -65,8 +66,9 @@
                                             <th>Sl</th>
                                             <th class="min-w-8x">Name</th>
                                             <th>Category</th>
-                                            <th>Sale Price</th>
-                                            <th>Cost Price</th>
+                                            <th>Discounted Price</th>
+                                            <th>Actual Price</th>
+<!--                                            <th>Discounted Price</th>-->
                                             <th>Quantity</th>
                                             <th>Image</th>
                                             <th>Visibility</th>
@@ -78,6 +80,7 @@
                                             <td th:text="${iter.index+1}"></td>
                                             <td th:text="${product.name}"></td>
                                             <td th:text="${product.category.name}"></td>
+<!--                                            <td th:text="${product.costPrice}"></td>-->
                                             <td th:text="${product.salePrice}"></td>
                                             <td th:text="${product.costPrice}"></td>
                                             <td th:text="${product.currentQuantity}"></td>
