@@ -1,13 +1,9 @@
-![Header](/Admin/src/main/resources/static/images/ex/JGPS-Git-Banner.gif)
+
 # E-Commerce Using Java Spring Boot
 
-![ GitHub followers ](https://img.shields.io/github/followers/rudradcruze?style=social) ![ GitHub Repo stars ](https://img.shields.io/github/stars/rudradcruze/Jonas-General-Purpose-Shop-SpringBoot?style=social) ![ GitHub repo size ](https://img.shields.io/github/repo-size/rudradcruze/Jonas-General-Purpose-Shop-SpringBoot) ![ YouTube Channel Subscribers ](https://img.shields.io/youtube/channel/subscribers/UCTZN1mzW0AwackW7axf7-OQ?style=social)  [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](/LICENSE)
+Welcome, General-Purpose Store that revolutionizes the way people shop in his town. With the aim of providing a seamless shopping experience, i plans to develop an application that allows customers to order products online or purchase them directly from the store. This application will offer a wide range of product categories, including Grocery Items, Electronic Items, Sports Items, Cosmetics, and a Miscellaneous category for unique items.
 
-[Detailed Video on YouTube](https://youtu.be/F4-iNaaumek)
-
-Welcome to the world of Mr. Jonas Kahnwald. Mr. Kahnwald has envisioned a General-Purpose Store that revolutionizes the way people shop in his town. With the aim of providing a seamless shopping experience, he plans to develop an application that allows customers to order products online or purchase them directly from the store. This application will offer a wide range of product categories, including Grocery Items, Electronic Items, Sports Items, Cosmetics, and a Miscellaneous category for unique items.
-
-In this scenario, we will explore the theoretical aspects and practical implementation of Mr. Kahnwald's vision. We will delve into the world of object-oriented concepts, logical class identification, relationships among classes, and the application of the Model-View-Controller (MVC) pattern to develop the system.
+In this scenario, we will explore the theoretical aspects and practical implementation. We will delve into the world of object-oriented concepts, logical class identification, relationships among classes, and the application of the Model-View-Controller (MVC) pattern to develop the system.
 
 ### System Actors/Roles
 
@@ -79,10 +75,8 @@ A person who can submit complaint without registering into the system.
 ## Installation
 
 * **Editor:** IntelliJ IDEA / Eclipse / NetBeans
-* **MySQL** - 8.0.32
+* **MySQL** - 8.3.0
 ## Clone and Run
-
-[Detailed Video on YouTube](https://youtu.be/F4-iNaaumek)
 
 * **Step 1:** Open Terminal And Run Below Command
 ```bash
@@ -104,13 +98,3 @@ For Customer Module: `http://localhost:8020/`
 ![Customer View](/Admin/src/main/resources/static/images/ex/customer-view.png)
 
 ![Admin View product List](/Admin/src/main/resources/static/images/ex/admin-view.png)
-## 🚀 About Me
-Tech-savvy designer/programmer pushing boundaries of online tech. Passionate about new tools, seeking challenges to advance skills.
-## 🔗 Social Links
-![Name](https://img.shields.io/badge/Name-Francis%20Rudra%20D%20Cruze-yellowgreen?style=for-the-badge)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudradcruze)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rudradcruze)
-[![Facebook](https://img.shields.io/badge/facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rudradcruze)
-[![francisrudra@gmail.com](https://img.shields.io/badge/gmail-4267B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisrudra@gmail.com)
-## License
-[MIT License](/LICENSE)
